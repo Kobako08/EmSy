@@ -1,3 +1,10 @@
+/*
+ ST7735 ve arduino esplora kullanılmıştır. Araç görünümlü bir objenin ekranda akışı ve farklı bir obje ile çarptığında puan yazılması amaçlanmıştır.
+  
+  
+ created 10 November 2015
+ by Şemsidin YILMAZ
+ */
 
 #include <Esplora.h>// Esplora hazır fonksiyonlarını kullanmak için
 #include <Adafruit_GFX.h>// Çekirdek grafik kütüphanemizi dahil edelim
