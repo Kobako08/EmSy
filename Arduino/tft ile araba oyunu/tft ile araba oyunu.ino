@@ -32,7 +32,7 @@ int rakip2 = 0;
 int rakip1s = 0;
 long skor = 0;
 int rakip2s = 0;
-long randSerit;
+long randSerit; 
 long randNumber;
 
 //renkleri define ediyoruz
